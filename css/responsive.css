@@ -1,0 +1,1349 @@
+@media only screen and (min-width: 1600px) and (max-width: 2000px) {
+    /* HEDER */
+    .say__yes__to_every_payment_ {
+        font-size: 66px;
+    }
+    .no_commitment__no_monthly_fees_ {
+        font-size: 31px;
+        left: 41.5%;
+        margin-top: 9%;
+    }
+    button.btn {
+        margin-left: 44%;
+        margin-top: 6%;
+        width: 300px;
+        height: 100px;
+    }
+    .btn a {
+        font-size: 23px;
+    }
+    .rectangle img {
+        margin-left: 12%;
+        width: 50%;
+    }
+    .rectangle-img img {
+        width: 54%;
+        margin-right: 20%;
+    }
+    .bullet {
+        font-size: 28px;
+    }
+    .bullets {
+        margin-top: -19%;
+        margin-left: 23%;
+    }
+    .object-euro img {
+        width: 40%;
+        margin-left: 8%;
+        margin-top: -20%;
+    }
+    .payment-img img {
+        width: 60%;
+        margin-top: -10%;
+    }
+    .first-elipse {
+        width: 85%;
+        margin-top: -486px;
+        margin-left: 42px;
+    }
+    .second-elipse {
+        width: 65%;
+        margin-top: -94%;
+        margin-left: 17%;
+    }
+    .object-euro img {
+        width: 150px;
+        margin-left: -13%;
+        margin-top: -415px;
+    }
+    .col-4.payment {
+        margin-top: -28%;
+        margin-left: -6%;
+    }
+    /* MYPOS PAYMENT CONTAINER */
+    h2.payment-container {
+        font-size: 4rem;
+    }
+    .payment-image {
+        width: 100px;
+    }
+    h5.is-weight {
+        font-size: 2.1rem;
+    }
+    h6 {
+        font-size: 1.5rem;
+    }
+}
+
+@media only screen and (max-width:1280px) {
+    /* CAROUSEL */
+    .post-slide .post-content {
+        padding: 0px 15px 25px 15px;
+    }
+}
+
+@media screen and (max-width: 1290px) {
+    /* HEDER */
+    .say__yes__to_every_payment_ {
+        left: 42%;
+        margin-top: 3%;
+    }
+    .no_commitment__no_monthly_fees_ {
+        left: 51%;
+        top: 21%;
+    }
+    .col-4.payment {
+        margin-top: -30%;
+        margin-left: -18%;
+    }
+    .rectangle {
+        margin-top: -22%;
+    }
+    button.btn {
+        width: 120px;
+        height: 50px;
+        left: 10%;
+        top: 44%;
+    }
+    .bullets {
+        position: absolute;
+        margin-top: -22%;
+        margin-left: 14%;
+    }
+    .object-euro {
+        position: absolute;
+        margin-top: -330px;
+        margin-left: -1%;
+    }
+    /* MYPOS PAYMENT CONTAINER */
+    h2.payment-container {
+        margin-top: 140px;
+    }
+    .row.is-margin,
+    .row.padding-top {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-left: 15%;
+    }
+    /* THIRD CONTAINER */
+    .top-box {
+        margin-top: -23%;
+    }
+    .arrow {
+        margin-top: 2%;
+    }
+    p.is-black {
+        margin-top: 5%;
+    }
+    p.is-blue {
+        margin-top: -9%;
+    }
+    .img-container {
+        width: 82%;
+        margin-top: 33%;
+    }
+    .col-top {
+        width: 56%;
+        margin-top: -22%;
+        margin-top: -30%;
+    }
+}
+
+@media screen and (max-width: 1260px) {
+    /* HEDER */
+    .first-elipse {
+        width: 86%;
+        margin-top: -267px;
+        margin-left: 13px;
+    }
+    .second-elipse {
+        width: 65%;
+        margin-top: -93%;
+        margin-left: 15%;
+    }
+    button.btn {
+        left: 3%;
+    }
+    /* HEDER END */
+}
+
+@media screen and (max-width: 1200px) {
+    /* HEDER */
+    .logo {
+        text-align: center;
+        margin-top: 2%;
+    }
+    .object-euro {
+        margin-left: -6%;
+    }
+    .first-elipse {
+        margin-top: -274px;
+        margin-left: -6px;
+        width: 100%;
+    }
+    .second-elipse {
+        width: 77%;
+        margin-top: -114%;
+        margin-left: 9%;
+    }
+    .rectangle {
+        margin-top: -7%;
+    }
+    .bullets {
+        position: absolute;
+        margin-top: -24%;
+        margin-left: 16%;
+    }
+    .no_commitment__no_monthly_fees_ {
+        left: 50%;
+        top: 20%;
+    }
+    .say__yes__to_every_payment_ {
+        left: 45%;
+        margin-top: 6%;
+    }
+    button.btn {
+        top: 42%;
+    }
+    .col-4.payment {
+        margin-top: -17%;
+        margin-left: -9%;
+    }
+    /* THIRD CONTAINER */
+    .h4-white {
+        margin-top: 11%;
+    }
+    /* TERMINALS DEVICE */
+    .img-container {
+        width: 78%;
+        margin-top: 50%;
+    }
+    .col-top {
+        width: 330px;
+        margin-top: -36%;
+        margin-left: -32%;
+        height: 57%;
+    }
+    .arrow {
+        margin-top: -3%;
+        margin-left: 17%;
+    }
+    p.is-black {
+        margin-left: 0%;
+        margin-top: -3%;
+    }
+    p.is-blue {
+        margin-top: -21%;
+        margin-left: 0%;
+    }
+    /* .button-box.is-third {
+        margin-top: 40%;
+    } */
+    .row.justify-content-center.aligh-items-center {
+        padding-top: 15%;
+    }
+    .terminals-img.width-backgr img {
+        width: 180px;
+        margin-left: 16%;
+        margin-top: -29%;
+    }
+}
+
+@media screen and (max-width: 1100px) {
+    /* HEDER */
+    .logo {
+        margin-top: 1%;
+    }
+    .say__yes__to_every_payment_ {
+        left: 35%;
+        font-size: 35px;
+        margin-top: 4%;
+    }
+    .btn a {
+        font-size: 13px;
+    }
+    #medium {
+        margin-top: 46%;
+        margin-left: -10%;
+    }
+    .rectangle {
+        margin-top: 8%;
+        margin-left: 33%;
+    }
+    div.col-4.payment {
+        margin-top: -21%;
+        margin-left: 0%;
+    }
+    .first-elipse {
+        margin-top: -274px;
+        margin-left: 5px;
+        width: 88%;
+    }
+    .second-elipse {
+        width: 70%;
+        margin-top: -98%;
+        margin-left: 11%;
+    }
+    .object-euro {
+        margin-left: 0%;
+    }
+    .bullets {
+        margin-top: -21%;
+        margin-left: 45%;
+    }
+    .no_commitment__no_monthly_fees_ {
+        top: 14%;
+        left: 42.5%;
+    }
+    div.col-4.payment {
+        margin-top: -5%;
+    }
+    button.btn {
+        top: 32%;
+        left: 4%;
+    }
+    /* HEDER END */
+}
+
+@media screen and (max-width: 1000px) {
+    /* THIRD CONTAINER */
+    .h4-white {
+        margin-top: 13%;
+    }
+    /* TERMINALS DEVICE */
+    .device-txt.is-margin {
+        margin-top: 0%;
+    }
+    .device-txt {
+        margin-left: auto;
+    }
+    .col-md-3.col-sm-6.is-text {
+        margin-top: 100px;
+    }
+    /* button.third-btn {
+        margin-top: 20%;
+    } */
+    .col-top {
+        margin-top: -36%;
+        height: 59%;
+    }
+    p.is-blue {
+        margin-top: -21%;
+        margin-left: 0%;
+    }
+    p.is-black {
+        margin-left: 0%;
+        margin-top: -3%;
+    }
+    .img-container {
+        margin-top: 28%;
+        width: 60%;
+    }
+}
+
+@media screen and (max-width: 950px) {
+    /* HEDER */
+    #desktop {
+        display: none;
+    }
+    #mobile {
+        display: block;
+        background-image: url(../images/mobile-layer.png);
+        background-repeat: no-repeat;
+        background-size: contain;
+        width: 100%;
+        height: 100%;
+        height: 650px;
+        opacity: 0.9;
+    }
+    .logo {
+        text-align: center;
+    }
+    header.mobile {
+        margin: 0 auto;
+    }
+    .say__yes__to_every_payment_ {
+        left: 24.5%;
+        font-size: 35px;
+        margin-top: 4%;
+        color: #ffff;
+        font-weight: 700;
+    }
+    .no_commitment__no_monthly_fees_ {
+        top: 18%;
+        left: 34%;
+    }
+    button.btn {
+        top: 36%;
+        left: -5%;
+        text-align: center;
+    }
+    .rectangle {
+        margin-top: -87%;
+        margin-left: 9%;
+    }
+    .bullets {
+        margin-top: -23%;
+        margin-left: 23%;
+    }
+    div.col-4.payment {
+        margin-top: -67%;
+        margin-left: 60%;
+    }
+    .object-euro {
+        margin-left: -11%;
+    }
+    /* MYPOS PAYMENT CONTAINER */
+    #mypos-payment {
+        margin-top: -40%;
+    }
+    .row.is-margin,
+    .row.padding-top {
+        margin-left: 0%;
+    }
+    .container-fluid.grid {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+    /* TERMINALS DEVICE */
+    .col-top {
+        margin-top: -17%;
+        margin-left: 0%;
+    }
+    p.is-blue {
+        margin-top: -24%;
+        margin-left: 5%;
+    }
+    p.is-black {
+        margin-left: 5%;
+        margin-top: -4%;
+    }
+    .arrow {
+        margin-top: -3%;
+        margin-left: 18%;
+    }
+    .terminals-img.width-backgr img {
+        width: 190px;
+        margin-left: 15%;
+        margin-top: -18%;
+    }
+    .top-box {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: -4%;
+        margin-left: -100%;
+    }
+    .row.justify-content-center.aligh-items-center {
+        padding-top: 10%;
+    }
+    .price-object.with-img img {
+        margin-left: -91px;
+    }
+    .price-object.is-first-obj img {
+        margin-left: -24%;
+        margin-top: -35%;
+    }
+    button.third-btn {
+        margin-top: 90%;
+    }
+    .col-md-3.col-sm-12.is-text {
+        padding-left: 0;
+    }
+    #desktop-terminals {
+        display: none;
+    }
+    #mobile-terminals {
+        display: block;
+    }
+    .col-sm-12.is-text {
+        text-align: center;
+    }
+    h3.is-weight {
+        margin-bottom: 2%;
+    }
+    p.lorem {
+        text-align: center;
+    }
+    .button-box.is-third {
+        position: static;
+        width: 50px;
+        display: inline-table;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: -20%;
+    }
+    .col-sm-12.is-img {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 5%;
+    }
+    .device-txt {
+        margin-top: 41%;
+    }
+    .col-sm-6.is-img.is-margin-top {
+        margin-top: 10%;
+        margin-left: 20%;
+    }
+    .top-box {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: -4%;
+    }
+    p.is-black {
+        margin-left: 19%;
+        margin-top: 3%;
+    }
+    p.is-blue {
+        margin-top: -7%;
+        margin-left: 19%;
+    }
+    .terminals-img.width-backgr img {
+        width: 80%;
+        margin-left: 5%;
+        margin-top: -35 px;
+    }
+    .device-txt.is-margin {
+        margin-left: 5%;
+    }
+    .terminals-img.is-bigger img {
+        margin-top: 0;
+    }
+    .col-top {
+        height: 50%;
+    }
+    .img-container {
+        width: 57%;
+    }
+}
+
+@media screen and (max-width: 930px) {
+    /* PAY BOX */
+    .col.pay img,
+    .col.pay.is-last img {
+        width: 40px;
+    }
+    .pay-box {
+        margin: 50px 5px 30px 5px;
+        border: 1px solid #798795;
+        border-radius: 12px;
+        padding: 20px;
+    }
+}
+
+@media screen and (max-width: 880px) {
+    /* HEDER */
+    .rectangle {
+        margin-top: -94%;
+    }
+    .bullets {
+        margin-top: -24%;
+    }
+    .first-elipse {
+        margin-top: -279px;
+        margin-left: -13px;
+        width: 100%;
+    }
+    .second-elipse {
+        width: 73%;
+        margin-top: -109%;
+        margin-left: 10%;
+    }
+    /* THIRD CONTAINER */
+    .h4-white {
+        margin-top: 15%;
+    }
+    /* TERMINALS DEVICE */
+}
+
+@media screen and (max-width: 820px) {
+    /* HEDER */
+    .rectangle {
+        margin-top: -103%;
+    }
+    div.col-4.payment {
+        margin-top: -73%;
+    }
+    .bullets {
+        margin-top: -25%;
+    }
+    /* TERMINALS DEVICE */
+    .col-md-3.col-sm-6.is-img.is-margin-top {
+        margin-top: 20%;
+    }
+    /* CAROUSEL */
+    h2.payment-container.customers {
+        margin-top: -30px;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    /* HEDER */
+    .first-elipse {
+        margin-top: -265px;
+        margin-left: -18px;
+        width: 290px;
+    }
+    .second-elipse {
+        width: 78%;
+        margin-top: -115%;
+        margin-left: 7%;
+    }
+    .bullets {
+        margin-top: -26%;
+        margin-left: 25%;
+    }
+    .logo {
+        margin-top: 3%;
+    }
+    .container-fluid {
+        display: flex;
+        justify-content: center;
+    }
+    .payment-img img {
+        width: 50%;
+        margin-top: 20%;
+    }
+    .object-euro img {
+        width: 80px;
+        margin-top: 100%;
+        margin-right: 50%;
+        margin-left: 50%;
+    }
+    /* MYPOS PAYMENT CONTAINER */
+    h2.payment-container {
+        margin-top: 70px;
+    }
+    /* THIRD CONTAINER */
+    .h4-white {
+        margin-top: 21%;
+    }
+    /* TERMINALS DEVICE */
+    .device-txt {
+        margin-top: 48%;
+    }
+    .terminals-img.width-backgr img {
+        margin-left: -2%;
+        margin-top: -40px;
+        width: 90%;
+    }
+    .flex-box {
+        margin-left: 3%
+    }
+    .price-object.with-img img {
+        margin-left: -64px;
+    }
+    /* CAROUSEL */
+    .carousel-item {
+        display: none;
+    }
+    /* FOOTER */
+    footer {
+        height: 500px;
+    }
+    .line {
+        margin-top: 9rem;
+        width: 600px;
+    }
+    .footer-txt {
+        margin-bottom: 5%;
+    }
+}
+
+@media screen and (max-width: 770px) {
+    /* HEDER */
+    .rectangle {
+        margin-top: -600px;
+    }
+    div.col-4.payment {
+        margin-top: -75%;
+    }
+    .object-euro img {
+        margin-right: 50%;
+    }
+    .bullets {
+        margin-top: -27%;
+        margin-left: 26%;
+    }
+    /* TERMINALS DEVICE */
+    .row.justify-content-center.aligh-items-center {
+        padding-top: 5%;
+    }
+    .col-md-3.col-sm-6.is-text {
+        padding-left: 50px;
+    }
+    .flex-box {
+        width: 70%;
+        display: flex;
+        /* justify-content: center; */
+        /* align-items: center; */
+    }
+    .device-txt {
+        width: auto;
+    }
+    .col-md-3.col-sm-12.is-text {
+        padding-left: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        text-align: start;
+    }
+    h3.is-weight {
+        margin-bottom: 0;
+    }
+    .col-md-3.col-sm-12.is-img {
+        margin-top: 15%;
+    }
+    .flex-box {
+        width: auto;
+        margin-left: 8%;
+    }
+    .price-object.is-first-obj {
+        margin-left: -10%;
+        margin-top: 4%;
+    }
+    p.is-blue {
+        margin-top: -8%;
+        margin-left: 23%;
+    }
+    p.is-black {
+        margin-left: 23%;
+        margin-top: 3%;
+    }
+    .price-object.is-first-obj.is-left.is-first-top img {
+        margin-top: -38%;
+        margin-left: -90%;
+    }
+    .price-object.is-first-obj.is-left.is-top img {
+        margin-top: -39%;
+        margin-left: -115%;
+    }
+    .price-object.is-first-obj.is-left.is-mid img {
+        margin-top: -3%;
+        margin-left: -87%;
+    }
+    .price-object.is-first-obj.is-left.is-down img {
+        margin-left: -100%;
+        margin-top: 62%;
+    }
+}
+
+@media screen and (max-width: 765px) {
+    /* HEDER */
+    .bullets {
+        margin-top: -18%;
+        margin-left: 20%;
+    }
+}
+
+@media screen and (max-width: 680px) {
+    /* HEDER */
+    .btn a {
+        font-size: 15px;
+    }
+    .bullets {
+        margin-top: -22%;
+        margin-left: 17%;
+    }
+    .rectangle {
+        margin-top: -607px;
+        margin-left: 4%;
+    }
+    .elipse-img {
+        display: none;
+    }
+    div.col-4.payment {
+        margin-top: -88%;
+    }
+    .logo img {
+        width: 7%;
+    }
+    .payment-img img {
+        width: 49%;
+        margin-top: 6%;
+        margin-left: 40%;
+    }
+    .object-euro {
+        margin-left: -4%;
+        margin-top: -290px;
+    }
+    .no_commitment__no_monthly_fees_ {
+        top: 17%;
+        left: 29.5%;
+    }
+    .say__yes__to_every_payment_ {
+        left: 19.5%;
+        font-size: 30px;
+    }
+    button.btn {
+        top: 33%;
+        left: -10%;
+    }
+    /* MYPOS PAYMENT CONTAINER */
+    h2.payment-container {
+        margin-top: -10%;
+    }
+    /* TERMINALS DEVICE */
+    .img-container {
+        width: 80%;
+    }
+    .col-top {
+        height: 45%;
+        margin-top: -20%;
+    }
+    .col-sm-6.is-img.is-margin-top {
+        margin-top: 10%;
+        margin-left: 10%;
+    }
+    .device-txt.is-margin {
+        margin-left: 16%;
+        margin-top: -7%;
+    }
+}
+
+@media screen and (max-width: 660px) {
+    /* HEDER */
+    .bullets {
+        margin-top: -23%;
+        margin-left: 18%;
+    }
+    /* THIRD CONTAINER */
+    .device-txt {
+        margin-top: 58%;
+        margin-left: 0%;
+        margin-right: 12%;
+    }
+    .col-sm-6.is-img.is-margin-top {
+        margin-top: 18%;
+        margin-left: 0%;
+    }
+    .col-top {
+        height: 47%;
+        margin-top: -32%;
+    }
+    p.is-blue {
+        margin-top: -16%;
+    }
+    p.is-black {
+        margin-top: 0%;
+    }
+    .img-container {
+        margin-top: 50%;
+    }
+    .terminals-img.width-backgr img {
+        width: 90%;
+    }
+    /* FOOTER */
+    .line {
+        margin-top: 9rem;
+        width: 400px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    /* HEDER */
+    .payment-img img {
+        width: 50%;
+        margin-top: -1%;
+        margin-left: 28%;
+    }
+    .object-euro img {
+        width: 65px;
+        margin-top: 110px;
+        margin-right: 50%;
+        margin-left: 50%;
+    }
+    .bullets {
+        margin-top: -23%;
+        margin-left: 35%;
+    }
+    .bullet {
+        font-size: 18px;
+    }
+    .col-4.payment {
+        display: none;
+    }
+    .text-box {
+        width: 500px;
+        height: 188px;
+    }
+    .rectangle {
+        margin-top: -605px;
+        text-align: center;
+    }
+    .logo img {
+        width: 10%;
+    }
+    .say__yes__to_every_payment_ {
+        left: 20.5%;
+        font-size: 27px;
+    }
+    .no_commitment__no_monthly_fees_ {
+        left: 25.5%;
+        top: 15%;
+    }
+    button.btn {
+        top: 30%;
+    }
+    .no_commitment__no_monthly_fees_ {
+        left: 27.5%;
+        top: 14%;
+    }
+    button.btn {
+        top: 27%;
+    }
+    /* MYPOS PAYMENT CONTAINER */
+    h2.payment-container {
+        margin-top: -25%;
+    }
+    .row.is-margin,
+    .row.padding-top {
+        padding-top: 0 80px;
+    }
+    .flex {
+        margin-bottom: 30px;
+    }
+    /* THIRD CONTAINER */
+    h4.color-white {
+        font-size: 30px;
+    }
+    .h4-white {
+        margin-top: 30%;
+    }
+    /* TERMINALS DEVICE */
+    .col-top {
+        height: 60%;
+        margin-top: -35%;
+        margin-left: -4%;
+    }
+    .device-txt {
+        margin-top: 65%;
+    }
+    .terminals-img.is-bigger.is-up img {
+        margin-top: -45px;
+    }
+    .price-object.is-first-obj.is-left.is-down img {
+        margin-top: -4%;
+    }
+    .price-object.with-img img {
+        margin-left: -90px;
+    }
+    /* FOOTER */
+    footer {
+        height: 600px;
+    }
+    .footer-txt {
+        margin-bottom: 8%;
+    }
+}
+
+@media screen and (max-width: 580px) {
+    /* HEDER */
+    .bullets {
+        margin-top: -24%;
+    }
+    /* TERMINALS DEVICE */
+    .col-top {
+        height: 45%;
+        margin-top: -16%;
+        margin-left: 10%;
+    }
+    p.is-blue {
+        margin-top: -4%;
+        margin-left: 25%;
+    }
+    p.is-black {
+        margin-top: 6%;
+        margin-left: 25%;
+    }
+    .img-container {
+        width: 280px;
+        margin-top: 27%;
+        margin-left: 20%;
+        margin-bottom: 10%;
+    }
+    /* FOOTER */
+    .line {
+        margin-top: 6rem;
+    }
+    .footer-txt {
+        margin-bottom: 12%;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    /* MYPOS PAYMENT CONTAINER */
+    h2.payment-container {
+        margin-top: -31%;
+    }
+    /* TERMINALS DEVICE */
+    .button-box.is-third {
+        margin-top: -30%;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    /* HEDER */
+    .bullets {
+        margin-top: -22%;
+        margin-left: 35%;
+    }
+    .rectangle img {
+        width: 60%;
+    }
+    .text-box {
+        width: auto;
+    }
+    .logo {
+        margin-top: 10%;
+    }
+    .logo img {
+        width: 30%;
+        margin-top: 5%;
+    }
+    .bullet {
+        font-size: 13px;
+    }
+    .say__yes__to_every_payment_ {
+        left: 20.5%;
+        font-size: 20px;
+    }
+    .no_commitment__no_monthly_fees_ {
+        font-size: 13px;
+        top: 12%;
+    }
+    button.btn {
+        width: 120px;
+        height: 40px;
+    }
+    button.btn a {
+        font-size: 13px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    /* MYPOS PAYMENT CONTAINER */
+    #mobile {
+        height: 526px;
+    }
+    .rectangle img {
+        margin-top: 20%;
+    }
+    .row.is-margin {
+        margin-top: 8%;
+    }
+    .payment-image {
+        width: 60px;
+    }
+    /* TERMINALS DEVICE */
+    .device-txt {
+        margin-top: 80%;
+    }
+    .device-txt.is-up {
+        margin-top: 70%;
+    }
+    .col-top {
+        height: 47%;
+        margin-top: -14%;
+        margin-left: 10%;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    /* MYPOS PAYMENT CONTAINER */
+    .rectangle img {
+        display: none;
+    }
+    .bullets {
+        display: flex;
+        text-align: center;
+        flex-direction: row;
+        justify-content: space-between;
+        margin-top: 51%;
+        margin-left: 19%;
+    }
+    .bullet {
+        margin: 0 5px;
+    }
+    #mobile {
+        height: 420px;
+    }
+    /* THIRD CONTAINER */
+    .container-fluid.terminal {
+        height: 300px;
+    }
+    h4.color-white {
+        font-size: 25px;
+        line-height: 1.2;
+    }
+    button.second-btn {
+        margin-top: 10%;
+        width: 150px;
+        height: 40px;
+    }
+    /* FOOTER */
+    footer {
+        height: 700px;
+    }
+    .footer-txt {
+        margin-bottom: 20%;
+    }
+    .line {
+        margin-top: 5rem;
+        width: 250px;
+    }
+}
+
+@media screen and (max-width: 420px) {
+    /* HEDER */
+    button.btn {
+        top: 22%;
+    }
+    .rectangle img {
+        width: 80%;
+    }
+    .rectangle {
+        margin-top: -625px;
+    }
+    .bullets {
+        margin-top: -27%;
+        margin-left: 32%;
+    }
+    /* MYPOS PAYMENT CONTAINER */
+    .container-fluid.grid {
+        margin-top: -100%;
+    }
+    #mobile {
+        height: 650px;
+    }
+    .bullets {
+        margin-top: 7%;
+        margin-left: 18%;
+    }
+    h2.payment-container {
+        margin-top: -30%;
+        font-size: 1.5rem;
+        line-height: 1.6;
+    }
+    h5.is-weight {
+        font-size: 1rem;
+    }
+    h6 {
+        font-size: 0.8rem!important;
+    }
+    .payment-image {
+        width: 50px;
+    }
+    /* TERMINALS DEVICE */
+    .img-container {
+        margin-left: 8%;
+    }
+    .device-txt.is-margin {
+        margin-left: 15%;
+    }
+    .device-txt {
+        margin-top: 90%;
+    }
+    .col-top {
+        height: 50%;
+        margin-top: -21%;
+        margin-left: 0%;
+    }
+    p.is-blue {
+        margin-top: -9%;
+        margin-left: 21%;
+    }
+    p.is-black {
+        margin-top: 2%;
+        margin-left: 21%;
+    }
+    .button-box.is-third {
+        margin-top: -50%;
+    }
+    .flex-box {
+        margin-left: 12%;
+    }
+    .img-container {
+        width: 230px;
+    }
+    /* FOOTER  */
+    .footer-txt {
+        text-align: justify;
+    }
+}
+
+@media screen and (max-width: 380px) {
+    /* MYPOS PAYMENT CONTAINER */
+    h2.payment-container {
+        margin-top: -45%;
+    }
+    /* TERMINALS DEVICE */
+    .device-txt.is-up {
+        margin-top: 78%;
+    }
+    /* FOOTER */
+}
+
+@media screen and (max-width: 360px) {
+    /* HEDER */
+    button.btn a {
+        font-size: 11px;
+    }
+    button.btn {
+        width: 100px;
+        height: 30px;
+    }
+    /* MYPOS PAYMENT CONTAINER */
+    h2.payment-container {
+        margin-top: -55%;
+    }
+    .bullets {
+        margin-top: 5%;
+        margin-left: 11%;
+    }
+    .say__yes__to_every_payment_ {
+        font-size: 17px;
+    }
+    .no_commitment__no_monthly_fees_ {
+        font-size: 12px;
+        left: 24.5%;
+    }
+    /* TERMINALS DEVICE */
+    .flex-box {
+        margin-left: 16%;
+    }
+    .device-txt.is-up {
+        margin-top: 75%;
+    }
+    /* FOOTER  */
+    .footer-txt {
+        margin-bottom: 30%;
+    }
+    footer {
+        height: 800px;
+    }
+}
+
+@media screen and (max-width: 340px) {
+    /* HEDER */
+    .bullets {
+        margin-top: 23%;
+        margin-left: 17%;
+    }
+    .bullet {
+        font-size: 11px;
+    }
+    .no_commitment__no_monthly_fees_ {
+        top: 10%;
+    }
+    button.btn {
+        top: 19%;
+    }
+    /* MYPOS PAYMENT CONTAINER */
+    #mobile {
+        height: 580px;
+    }
+    /* FOOTER  */
+    .footer-txt {
+        margin-bottom: 29%;
+    }
+}
+
+@media screen and (max-width: 300px) {
+    /* HEDER */
+    #mobile {
+        height: 540px;
+    }
+    .bullets {
+        margin-top: 36%;
+        margin-left: 10%;
+    }
+    /* MYPOS PAYMENT CONTAINER */
+    h2.payment-container {
+        font-size: 1.2rem;
+    }
+    /* TERMINALS DEVICE */
+    .img-container {
+        width: 73%;
+        margin-top: 43%;
+    }
+    .terminals-img.width-backgr img {
+        width: 150px;
+        margin-left: -14%;
+        margin-top: -34px;
+    }
+    .price-object.with-img img {
+        margin-left: -68px;
+    }
+    .col-top {
+        height: 45%;
+        margin-top: -24%;
+        margin-left: -19%;
+    }
+    p.is-blue {
+        margin-top: -12%;
+        margin-left: 8%;
+    }
+    p.is-black {
+        margin-top: 1%;
+        margin-left: 8%;
+    }
+    .col-sm-6.is-img.is-margin-top {
+        margin-top: 30%;
+    }
+    .price-object.is-first-obj {
+        margin-left: -10%;
+        margin-top: 4%;
+        margin-right: -4%;
+    }
+    .button-box.is-third {
+        margin-top: -64%;
+    }
+    .col-sm-12.is-text {
+        margin-top: 10%;
+    }
+    .col-sm-12.is-img {
+        margin-top: 20%;
+    }
+    .device-txt {
+        margin-top: 93%;
+        margin-right: auto;
+    }
+    .price-object.is-first-obj.is-left.is-down img {
+        margin-top: -50%;
+    }
+}
+
+@media screen and (max-width: 280px) {
+    /* HEDER */
+    button.btn {
+        top: 17%;
+    }
+    h2.payment-container {
+        margin-top: -70%;
+    }
+    .bullets {
+        margin-left: 7%;
+    }
+    .say__yes__to_every_payment_ {
+        left: 8.5%;
+    }
+    .no_commitment__no_monthly_fees_ {
+        left: 13.5%;
+    }
+    .bullets {
+        margin-left: 4%;
+        margin-top: 37%;
+    }
+    /* THIRD CONTAINER */
+    h4.color-white {
+        font-size: 22px;
+        line-height: 1.5;
+    }
+}

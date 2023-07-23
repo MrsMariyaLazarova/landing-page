@@ -1,0 +1,587 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+body {
+    overflow-x: hidden;
+}
+
+#desktop {
+    display: block;
+}
+
+#mobile {
+    display: block;
+}
+
+
+/* START HEADER */
+
+header.desktop {
+    background-image: url("../images/Layer\ 18.png"), url("../images/Layer\ 23.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #fff;
+    position: absolute;
+    left: 2px;
+    top: -1px;
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
+.header-box {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 18;
+}
+
+#mobile {
+    display: none;
+}
+
+.say__yes__to_every_payment_ {
+    font-size: 48px;
+    font-family: 'Roboto', sans-serif;
+    color: rgba(255, 255, 255, 0.502);
+    text-align: center;
+    position: absolute;
+    left: 35%;
+    margin-top: 4%;
+}
+
+.no_commitment__no_monthly_fees_ {
+    font-size: 17px;
+    font-family: "Roboto";
+    color: rgb(255, 255, 255);
+    line-height: 1.25;
+    text-align: center;
+    position: absolute;
+    left: 42.5%;
+    margin-top: 9%;
+    font-weight: 700;
+}
+
+.text-box {
+    width: 615px;
+    height: 188px;
+}
+
+.logo {
+    text-align: center;
+    margin-top: 4%;
+}
+
+button.btn {
+    background-color: rgb(60, 139, 255);
+    border: transparent;
+    position: absolute;
+    margin-left: 45%;
+    margin-top: 2%;
+    width: 170px;
+    height: 50px;
+    z-index: 10;
+    border-radius: 50px;
+}
+
+.btn a,
+.second-btn a,
+.button-box.is-third a {
+    text-decoration: none;
+    font-size: 14px;
+    font-family: "Myriad Pro" serif;
+    color: rgb(255, 255, 255);
+    line-height: 1.222;
+    left: 941.844px;
+    top: 501.502px;
+    z-index: 12;
+    font-weight: 500;
+}
+
+.btn a:hover {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+
+/* SECOND CONTAINER */
+
+#medium {
+    margin-top: 53%;
+    margin-left: 18%;
+}
+
+.rectangle {
+    position: relative;
+    margin-top: -23%;
+}
+
+.bullets {
+    position: absolute;
+    margin-top: -18%;
+    margin-left: 12%;
+}
+
+.bullet {
+    font-size: 19px;
+    font-family: "Myriad Pro" serif;
+    color: rgb(255, 255, 255);
+    line-height: 1.652;
+    z-index: 27;
+}
+
+.col-4.payment {
+    margin-top: -28%;
+    margin-left: -25%;
+}
+
+.payment-img {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    z-index: 2;
+}
+
+.first-elipse {
+    width: 80%;
+    margin-top: -313px;
+    margin-left: 30px;
+}
+
+.second-elipse {
+    width: 60%;
+    margin-top: -90%;
+    margin-left: 18%;
+}
+
+.elipse-img {
+    position: absolute;
+}
+
+.object-euro {
+    position: absolute;
+    margin-top: -330px;
+    margin-left: 7%;
+    z-index: 3;
+}
+
+.object-euro img {
+    width: 90px;
+}
+
+
+/* HEADER END */
+
+
+/* MYPOS PAYMENT CONTAINER */
+
+#mypos-payment {
+    width: inherit;
+}
+
+h2.payment-container {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.row.is-margin {
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 20%;
+}
+
+.row.padding-top {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 20%;
+}
+
+h5.is-weight {
+    font-weight: 300;
+    margin: 0;
+}
+
+.payment-image {
+    width: 80px;
+}
+
+.flex {
+    display: flex;
+    margin-bottom: 65px;
+}
+
+.payment-txt {
+    margin-left: 6%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+/* THIRD CONTAINER */
+
+#mobile-terminals {
+    display: none;
+}
+
+.container-fluid.terminal {
+    background-image: url("../images/offer.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    height: 400px;
+}
+
+.h4-white {
+    display: flex;
+    justify-content: center;
+    /* height: 400px; */
+    margin-top: 8%;
+}
+
+h4.color-white {
+    font-size: 40px;
+    font-family: "Roboto";
+    color: rgb(255, 255, 255);
+    line-height: 0.55;
+    text-align: center;
+    /* position: absolute; */
+    z-index: 89;
+}
+
+button.second-btn {
+    background-color: rgb(60, 139, 255);
+    border: transparent;
+    width: 212px;
+    height: 50px;
+    z-index: 10;
+    border-radius: 50px;
+}
+
+.button-box.is-second {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+}
+
+
+/* TERMINALS DEVICE */
+
+.container-fluid.background-image {
+    background-image: url("../images/device-background.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: left;
+    height: 100%;
+}
+
+.col-md-3.col-sm-12.is-text {
+    padding-left: 65px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+}
+
+.row.justify-content-center.aligh-items-center {
+    padding-top: 10%;
+}
+
+h3.is-weight {
+    font-size: 23px;
+    font-family: "Roboto";
+    color: rgb(51, 51, 51);
+    margin-bottom: 5%;
+}
+
+p.lorem {
+    font-size: 13px;
+    font-family: "Roboto";
+    color: rgb(51, 51, 51);
+    line-height: 1.5;
+    text-align: left;
+    z-index: 97;
+    font-weight: 600;
+}
+
+.col-md-3.col-sm-6.is-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+}
+
+button.third-btn {
+    background-color: rgb(60, 139, 255);
+    border: transparent;
+    width: 190px;
+    height: 43px;
+    z-index: 10;
+    border-radius: 50px;
+    margin-top: 100%;
+}
+
+.button-box.is-third {
+    background-color: transparent;
+    position: absolute;
+    width: 214px;
+    z-index: 98;
+}
+
+.button-box.is-third a:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+.col-md-3.col-sm-6.is-img {
+    margin-top: 5%;
+}
+
+.terminals-img.is-bigger img {
+    width: 80%;
+    margin-top: 10%;
+}
+
+.flex-box:hover {
+    filter: drop-shadow(2.5px 2.5px 5px rgb(231, 228, 228));
+    cursor: pointer;
+}
+
+.device-txt {
+    font-size: 19px;
+    font-family: "Roboto";
+    color: rgb(51, 51, 51);
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    margin-left: 20%;
+    width: 165px;
+    z-index: 101;
+    text-align: center;
+}
+
+.device-txt.is-margin {
+    margin-top: -2%;
+}
+
+.price-object.is-first-obj img,
+.price-object.with-img img {
+    width: 70px;
+}
+
+.price-object.is-first-obj {
+    margin-left: -25%;
+    margin-top: 4%;
+}
+
+.price-object img {
+    margin-top: -60%;
+    margin-left: -30%;
+}
+
+.price-object.is-first-obj.is-left img {
+    margin-left: -31%;
+}
+
+.price-object.is-first-obj.is-left.is-first-top img {
+    margin-top: -20%;
+    margin-left: -29%;
+}
+
+.price-object.is-first-obj.is-left.is-second-top img {
+    margin-left: -5%;
+    margin-top: -40%;
+}
+
+.price-object.is-first-obj.is-left.is-top img {
+    margin-top: -10%;
+    margin-left: -52%;
+}
+
+.price-object.is-first-obj.is-left.is-mid img {
+    margin-top: 15%;
+    margin-left: -8%;
+}
+
+.price-object.is-first-obj.is-left.is-down img {
+    margin-left: -25%;
+    margin-top: 70%;
+}
+
+.img-container {
+    background-image: url(../images/device-col-background.png);
+    background-repeat: no-repeat;
+    width: 60%;
+    background-size: contain;
+    margin-top: 29%;
+}
+
+.terminals-img.width-backgr img {
+    width: 190px;
+    margin-left: 15%;
+    margin-top: -35%;
+}
+
+.rice-object.with-img {
+    margin-left: -27px;
+    margin-top: -12%;
+}
+
+.top-box {
+    margin-top: 6%;
+}
+
+.col-top {
+    border-radius: 10px;
+    position: absolute;
+    width: 100%;
+    height: 50%;
+    z-index: 112;
+    margin-top: -26%;
+    margin-left: -27%;
+}
+
+.arrow {
+    position: absolute;
+    width: 35%;
+    z-index: 113;
+    margin-top: -9%;
+    margin-left: 6%;
+}
+
+.flex-box {
+    display: flex;
+    justify-content: center;
+}
+
+p.is-blue {
+    font-size: 16px;
+    font-family: "Myriad Pro" serif;
+    color: rgb(60 140 255);
+    line-height: 3.333;
+    position: absolute;
+    z-index: 1666;
+    margin-top: -15%;
+    margin-left: -4%;
+}
+
+p.is-black {
+    font-size: 12px;
+    font-family: "Roboto";
+    color: rgb(55, 56, 56);
+    line-height: 1.313;
+    position: absolute;
+    width: 251px;
+    height: 37px;
+    z-index: 115;
+    margin-top: -4%;
+    margin-left: -4%;
+    font-weight: 600;
+}
+
+
+/* PAY BOX */
+
+.pay-box {
+    margin-top: 150px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.col.pay img {
+    width: 90%;
+}
+
+
+/* CAROUSEL */
+
+h2.payment-container.customers {
+    margin-top: 50px;
+    margin-bottom: 5%;
+}
+
+.card-title {
+    font-size: 15px;
+    font-family: "Roboto";
+    color: rgb(46, 46, 46);
+    line-height: 1.779;
+    font-weight: 600;
+    margin-bottom: 0rem!important;
+}
+
+.card-text {
+    font-size: 11px;
+    color: rgb(51, 51, 51);
+    line-height: 1.75;
+}
+
+.col-md-4.mb-3 {
+    filter: drop-shadow(2.5px 2.5px 5px rgb(175, 175, 175));
+}
+
+
+/* FOOTER */
+
+footer {
+    background-color: rgb(54, 54, 54);
+    box-shadow: -2.298px 1.928px 98px 0px rgba(0, 0, 0, 0.06);
+    left: -17px;
+    height: 500px;
+    z-index: 71;
+}
+
+.container-fluid.aligh-items-center {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-logo img {
+    width: 70%;
+    margin-top: 35%;
+    margin-bottom: 10%;
+}
+
+.footer-box-txt {
+    width: 80%;
+}
+
+.footer-txt {
+    font-size: 12px;
+    font-family: "Roboto";
+    color: rgb(255, 255, 255);
+    line-height: 1.333;
+    text-align: center;
+    height: 27px;
+    margin-top: 3%;
+    margin-left: 2%;
+}
+
+.footer-flex-txt {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-txt img {
+    margin-right: 5px;
+}
+
+.line {
+    background-color: rgb(195 184 184);
+    position: absolute;
+    margin-top: 10rem;
+    width: 719px;
+    height: 0px;
+    z-index: 73;
+}
